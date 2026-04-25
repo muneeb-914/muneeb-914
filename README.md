@@ -47,7 +47,7 @@ Analyzed engagement trends across Reddit travel communities using Python and Pow
 ## 📊 GitHub Stats
 
 ![Muneeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muneeb-914&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-914&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-914&layout=compact&hide_border=true&theme=default&hide=jupyter%20notebook,javascript,typescript,css)
 
 ---
 
